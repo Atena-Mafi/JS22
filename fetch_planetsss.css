@@ -1,0 +1,20 @@
+
+
+
+body{
+
+ background-color: #121d7e94;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.photo{
+
+width: 300px;
+height: 300px;
+border-radius:15px;
+
+}
